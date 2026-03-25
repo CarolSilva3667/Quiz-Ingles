@@ -1,5 +1,8 @@
 # Quiz-Ingles
 
+## Nome do Quiz
+English Quiz
+
 ## English Quiz
 O quiz foi planejado para ajudar a estudar para provas, trabalhos e atividades, de maneira descontraida e prática.
 Ele aborda temas como "diferença entre Story e History", "was e/ou where", entre outros.
